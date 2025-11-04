@@ -1,13 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
     <channel>
-        <title>Fiberzone</title>
+        <title>Fiberzone New System</title>
         <item>
-            <title>Version 1.0.24</title>
+            <title>Version 2.0.1</title>
             <description>Minor updates and improvements.</description>
-            <pubDate>Tue, 28 May 2025 13:15:00 +0000</pubDate>
-            <enclosure url="https://play.google.com/store/apps/details?id=com.varnionfiberzone" sparkle:version="1.0.24" sparkle:os="android" />
+            <pubDate>Wed, 4 Oct 2025 13:15:00 +0000</pubDate>
+            <enclosure url="https://play.google.com/store/apps/details?id=com.varnionfiberzone" sparkle:version="2.0.1" sparkle:os="android" />
         </item>
+
+    <item>
+        <title>Version 2.0.1</title>
+        <description>Minor updates and improvements.</description>
+        <sparkle:version>2.0.1</sparkle:version>
+        <pubDate>Wed, 4 Oct 2025 13:15:00 +0000</pubDate>
+        <enclosure url="https://apps.apple.com/id/app/fiberzone/id6615065862" sparkle:version="2.0.1" sparkle:os="iOS" />
+        <sparkle:minimumSystemVersion>12.0.0</sparkle:minimumSystemVersion>
+    </item>
+
         <!-- The best chosen release -->
 <!--     <item>
         <title>Version 3.0</title>
