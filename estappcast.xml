@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
     <channel>
         <title>Fiberzone New System</title>
-        <!-- <item>
+        <item>
             <title>Version 2.0.1</title>
             <description>Minor updates and improvements.</description>
             <pubDate>Wed, 4 Oct 2025 13:15:00 +0000</pubDate>
             <enclosure url="https://play.google.com/store/apps/details?id=com.varnionfiberzone" sparkle:version="2.0.1" sparkle:os="android" />
         </item>
 
-    <item>
+    <!-- <item>
         <title>Version 2.0.1</title>
         <description>Minor updates and improvements.</description>
         <sparkle:version>2.0.1</sparkle:version>
