@@ -1,10 +1,10 @@
-{
-        'status': true,
-        'message': 'App retrieved successfully',
-        'data': [
+      {
+        "status": true,
+        "message": "App retrieved successfully",
+        "data": [
           {
-          'image': 'https://example.com/image1.png',
-          'title': 'Welcome to the App',
+          "image": "https://example.com/image1.png",
+          "title": "Welcome to the App",
         }
         ]
       }
